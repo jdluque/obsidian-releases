@@ -1,5 +1,12 @@
 [
   {
+	  "id": "obsidian-next-link",
+	  "name": "Next Link",
+    "author": "Juan Luque",
+	  "description": "Jump quickly between note links.",
+    "repo": "jdluque/next-link"
+  },
+  {
     "id": "nldates-obsidian",
     "name": "Natural Language Dates",
     "author": "Argentina Ortega Sainz",
@@ -8314,26 +8321,5 @@
     "author": "Carlo Zottmann",
     "description": "Ensures each note occupies only one tab. If a note is already open, its existing tab will be focussed instead of opening the same file in the current tab.",
     "repo": "czottmann/obsidian-mononote"
-  },
-  {
-    "id": "cannoli",
-    "name": "Cannoli",
-    "author": "blindmansion",
-    "description": "Create and run LLM scripts on the Obsidian Canvas.",
-    "repo": "DeabLabs/cannoli"
-  },
-  {
-    "id": "multiple-notes-outline",
-    "name": "Multiple Notes Outline",
-    "author": "iiz",
-    "description": "Add custom views which show outlines of multiple notes with headings, links, tags and list items.",
-    "repo": "iiz00/obsidian-multiple-notes-outline"
-  },
-  {
-    "id": "url-display",
-    "name": "URL Display",
-    "author": "Stephanie Lin",
-    "description": "Extract and display external URLs of the note in Obsidian.",
-    "repo": "lin-stephanie/obsidian-url-display"
   }
 ]
